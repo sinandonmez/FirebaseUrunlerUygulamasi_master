@@ -1,5 +1,6 @@
 # FirebaseUrunlerUygulamasi_master
 
+2.el ürün ile ilgili android mobil uygulamasıdır.
 Firebase işlemleri öncesi projenin tasarım halini içerir.
 
 Projenin devamı ile ilgili videolar :
